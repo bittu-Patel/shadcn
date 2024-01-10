@@ -1,0 +1,3 @@
+{
+    "watch" ["server.ts", "src/collection/**/*.ts", "src/trpc/index.t" ]
+}
